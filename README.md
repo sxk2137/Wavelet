@@ -1,8 +1,11 @@
 # Wavelet
 Wavelet Transform-Guided Transformer Light Transfer Network for Zero-Shot Low-Light Image Enhancement
 
-### The overall framework of the WAVELET
+### Overall FrameWork 
 ![](https://github.com/sxk2137/Wavelet/blob/main/framework.png)
+
+### Visual comparison of low-light enhancement methods
+![](https://github.com/sxk2137/Wavelet/blob/main/lol.png)
 
 ### Data Download
 
